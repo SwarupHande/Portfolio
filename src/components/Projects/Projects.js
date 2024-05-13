@@ -7,7 +7,7 @@ import Contactapp from "../../Assets/Projects/Firebase.png";
 import CollegeERP from "../../Assets/Projects/Feereceipt.png";
 import Shoes from "../../Assets/Projects/Shoes.png";
 import crypto from "../../Assets/Projects/CryptoTracker.png";
-import suicide from "../../Assets/Projects/blog.png";
+
 
 function Projects() {
   return (
