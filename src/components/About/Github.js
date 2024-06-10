@@ -18,5 +18,4 @@ function Github() {
     </Row>
   );
 }
-
 export default Github;
